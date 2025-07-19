@@ -18,6 +18,3 @@ This project visualizes Amazon Store Sales data using Power BI.
 - Open in **Power BI Desktop**
 - Explore and customize the dashboard as needed
 
-## 🖼️ Preview
-![Dashboard Preview](DashboardPreview.png)
-
