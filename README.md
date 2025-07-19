@@ -1,4 +1,4 @@
-# Amazon-Store-Sales-Analysis-Using-Power-BI
+# Amazon-Store-Sales-Analysis-Power-BI
 This project visualizes Amazon Store Sales data using Power BI.
 
 ## Features
